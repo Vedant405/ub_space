@@ -23,8 +23,10 @@
 
 ## 📸 Screenshots
 
-![Home Screen](images/homescreen.jpg)
-![Blog Detail](images/details.jpg)
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: start;">
+  <img src="images/homescreen.jpg" alt="Home Screen" width="250"/>
+  <img src="images/details.jpg" alt="Blog Detail" width="250"/>
+</div>
 
 ---
 
