@@ -23,8 +23,8 @@
 
 ## 📸 Screenshots
 
-![Home Screen](images/homescreen.png)
-![Blog Detail](images/details.png)
+![Home Screen](images/homescreen.jpg)
+![Blog Detail](images/details.jpg)
 
 ---
 
